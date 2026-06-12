@@ -1,4 +1,4 @@
 # Gripper-CAD-design-in-SolidWorks
 Gripper design in SolidWorks
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2ccce6b-1484-4415-8ed7-61b021310538" />
+<img width="1920" height="1013" alt="Gripper" src="https://github.com/user-attachments/assets/2acd4a5a-de5f-47c7-99f2-636c5d0fcd62" />
